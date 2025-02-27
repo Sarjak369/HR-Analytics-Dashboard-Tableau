@@ -8,6 +8,7 @@
 Lets Connect 
 
 [Go to my LinkedIn](https://www.linkedin.com/in/sarjak369/) 🌐
+[Dashboard Link] (https://public.tableau.com/views/HRANALYTICSDASHBOARD_17406391523880/HRDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## PROJECT NAME:
